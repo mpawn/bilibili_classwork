@@ -31,7 +31,7 @@ int main()
     }
     if(left>right)
     {
-        printf("没找到")
+        printf("没找到");
     }
     return 0;
 }
